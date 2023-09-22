@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\bin\Debug\net7.0\Dicegame.exe
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\bin\Debug\net7.0\Dicegame.deps.json
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\bin\Debug\net7.0\Dicegame.runtimeconfig.json
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\bin\Debug\net7.0\Dicegame.dll
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\bin\Debug\net7.0\Dicegame.pdb
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\Dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\Dicegame.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\Dicegame.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\Dicegame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\Dicegame.dll
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\refint\Dicegame.dll
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\Dicegame.pdb
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\Dicegame.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#_Projects\Dicegame\obj\Debug\net7.0\ref\Dicegame.dll
