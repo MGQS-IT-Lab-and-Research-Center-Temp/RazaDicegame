@@ -4,7 +4,7 @@ using System.Reflection.Metadata;
 
 Console.Write("    -------A Simple Dice Game-------\nEnter your nickname: ");
 String? nickname = Console.ReadLine();
-Console.Write($"\nHi {nickname}, Let's play a dice game.\nFor the total number you get you will have a gift.\n--------------------------------------------------\nTo begin, Input \"S\" or \"Start\": ");
+Console.Write($"\nHi {nickname}, Let's play a dice game.\nFor the total number you get you will have a gift.\n--------------------------------------------------\nNow let's roll some dice\nTo begin, Input \"S\" or \"Start\": ");
 String? input = Console.ReadLine();
 Console.Write("\n========================================\n");
 

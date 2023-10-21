@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj": {
+    "C:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj",
         "projectName": "Dicegame",
-        "projectPath": "c:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\Dicegame.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\C#_Projects\\Dicegame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
